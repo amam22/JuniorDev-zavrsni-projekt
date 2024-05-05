@@ -1,0 +1,110 @@
+{
+	"organizacije": [
+		{
+			"id": "organizacija_1",
+			"ime": "organizacija 1",
+			"datum": "01.01.2025",
+			"opis": "Kratki opis organizacije 1"
+
+		}
+	],
+	"volonteri": [
+		{
+			"id": "1",
+			"ime": "Marija",
+			"prezime": "Maric",
+			"grad": "Solin"
+			
+		},
+		{
+			"id": "2",
+			"ime": "Ivo",
+			"prezime": "Ivic",
+			"grad": "Sinj"
+		},	
+		{
+			"id": "3",
+			"ime": "Ana",
+			"prezime": "Anic",
+			"grad": "Dugopolje"
+		},	
+		{
+			"id": "4",
+			"ime": "Ante",
+			"prezime": "Antic",
+			"grad": "Sibenik"
+		},	
+		{
+			"id": "5",
+			"ime": "Luka",
+			"prezime": "Lukic",
+			"grad": "Split"
+		},	
+		{
+			"id": "6",
+			"ime": "Petar",
+			"prezime": "Peric",
+			"grad": "Zadar"
+		},
+		{
+			"id": "7",
+			"ime": "Borna",
+			"prezime": "Boric",
+			"grad": "Solin"
+		}
+	],
+	"aktivnosti": [
+		{
+		  "id": "1",
+		  "name": "Organiziranje javnih manifestacija",
+		  "date": "15. svibnja 2024. u 10:00",
+		  "description": "Uskoro",
+		  "location": "Splitsko-dalmatinska županija",
+		  "organization": "Udruga Riječna Pustolovina"
+		},
+		{
+		  "id": "2",
+		  "name": "Individualno savjetovanje i edukacije",
+		  "date": "20. svibnja 2024. u 14:00",
+		  "description": "Uskoro",
+		  "location": "Splitsko-dalmatinska županija",
+		  "organization": "Udruga Riječna Pustolovina"
+		},
+		{
+		  "id": "3",
+		  "name": "Kampanje",
+		  "date": "25. svibnja 2024. u 09:30",
+		  "description": "Uskoro",
+		  "location": "Splitsko-dalmatinska županija",
+		  "organization": "Udruga Riječna Pustolovina"
+		}
+	  ],
+	  "cities": [
+		{
+		  "id": "1",
+		  "name": "Split"
+		},
+		{
+		  "id": "2",
+		  "name": "Dugopolje"
+		},
+		{
+		  "id": "3",
+		  "name": "Zadar"
+		},
+		{
+		  "id": "4",
+		  "name": "Solin"
+		},
+		{
+		  "id": "5",
+		  "name": "Sibenik"
+		},
+		{
+		  "id": "6",
+		  "name": "Sinj"
+		}
+	  ]
+		
+
+}

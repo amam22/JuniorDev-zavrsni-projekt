@@ -1,0 +1,57 @@
+.activities-container {
+  background-color: rgb(227, 237, 252);
+  text-align: center;
+  margin: 14% auto;
+  max-width: 800px; 
+  padding: 20px; 
+  border-radius: 20px;
+}
+
+.activities-title {
+  background-color: rgb(227, 237, 252);
+  font-family: cursive, "Lucida Handwriting", sans-serif;
+  font-size: 32px;
+  color: #336699;
+  padding: 10px; 
+}
+
+.activities-list {
+  list-style: none;
+  padding: 0;
+}
+
+.activities-list li {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.activities-list li a {
+  color: #69a5ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.activities-list li span {
+  display: block;
+  color: #333;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+/* Dodani stilovi za gumbove */
+button {
+  background-color: #5c92c8; 
+  color: #fff; 
+  border: none; 
+  padding: 10px 20px; 
+  border-radius: 5px; 
+  cursor: pointer; 
+  transition: background-color 0.3s; 
+}
+
+button:hover {
+  background-color: #004080; 
+}

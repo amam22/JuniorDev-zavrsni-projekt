@@ -1,0 +1,41 @@
+.organizations-container {
+  background-color: rgb(227, 237, 252);
+  text-align: center;
+  margin: 10% auto; /* Promijenjeno na 10% */
+  max-width: 800px; 
+  padding: 20px; 
+  border-radius: 20px;
+}
+
+.organizations-title {
+  font-family: cursive, "Lucida Handwriting", sans-serif;
+  font-size: 32px;
+  color: #336699;
+  padding: 10px; 
+}
+
+.organizations-list {
+  list-style: none;
+  padding: 0;
+}
+
+.organizations-list li {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.organizations-list li a {
+  color: #69a5ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.organizations-list li span {
+  display: block;
+  color: #333;
+  font-size: 14px;
+  margin-top: 10px;
+}

@@ -1,0 +1,48 @@
+.activities-container {
+    background-color: rgb(227, 237, 252);
+    text-align: center;
+    margin: 14% auto;
+    max-width: 800px;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  
+  .activities-title {
+    background-color: rgb(227, 237, 252);
+    font-family: cursive, "Lucida Handwriting", sans-serif;
+    font-size: 32px;
+    color: #336699;
+    padding: 10px;
+  }
+  
+  .add-volunteer-link {
+    margin-bottom: 20px;
+    display: block;
+  }
+  
+  .volunteer-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .volunteer-item {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .volunteer-item img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0 auto 10px;
+    display: block;
+  }
+  
+  .volunteer-item p {
+    margin: 0;
+  }
+  
